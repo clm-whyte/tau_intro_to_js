@@ -4,6 +4,5 @@
     "noImplicitAny": true,
     "removeComments": true,
     "preserveConstEnums": true,
-    
   },
 }

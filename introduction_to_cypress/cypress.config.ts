@@ -8,3 +8,6 @@ module.exports = defineConfig({
     specPattern: 'cypress/integration/**/*.spec.{js,jsx,ts,tsx}'
   },
 });
+
+
+require('@applitools/eyes-cypress')(module);
